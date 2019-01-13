@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Fram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Tests", "Framework.Tests\Framework.Tests.csproj", "{008D2E0C-BEC5-4C67-A71D-51C8C4630C67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.ConsoleApp", "Framework.ConsoleApp\Framework.ConsoleApp.csproj", "{1F0E87A4-FC4F-45AA-9AB1-DECC111ED1CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{008D2E0C-BEC5-4C67-A71D-51C8C4630C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{008D2E0C-BEC5-4C67-A71D-51C8C4630C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{008D2E0C-BEC5-4C67-A71D-51C8C4630C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0E87A4-FC4F-45AA-9AB1-DECC111ED1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0E87A4-FC4F-45AA-9AB1-DECC111ED1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0E87A4-FC4F-45AA-9AB1-DECC111ED1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0E87A4-FC4F-45AA-9AB1-DECC111ED1CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

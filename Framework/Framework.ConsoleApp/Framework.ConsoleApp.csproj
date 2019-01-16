@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinaryFormatterTest.cs" />
+    <Compile Include="CryptoTest.cs" />
+    <Compile Include="LinqTest.cs" />
+    <Compile Include="ListTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
